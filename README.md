@@ -10,7 +10,7 @@ This document introduces the Kaon testnet and guides users through how to access
 
 Welcome to the Kaon blockchain ecosystem. For an in-depth analysis of the network, please proceed to our testnet explorer: [Kaon Testnet Explorer](https://explorer.testnet.kaon.one). Users will arrive at the screen below:
 
-![Kaon Explorer - Main Page](./img/explorer-main-down.png "Kaon Explorer - Main Page")
+![Kaon Explorer - Main Page](./img/explorer-main-up.png "Kaon Explorer - Main Page")
 
 This explorer, while based on the classic Ethereum-type model, has been adapted to efficiently handle our UTXO chain data stream. The transformation process is transparent and publicly accessible, featuring the following key adaptations:
 
@@ -18,7 +18,7 @@ This explorer, while based on the classic Ethereum-type model, has been adapted 
 2. Implementation of 1e-18 as the native denomination.
 3. Conversion of UTXO transactions into Ethereum-compatible format.
 
-![Kaon Explorer - Main Page](./img/explorer-main-up.png "Kaon Explorer - Main Page")
+![Kaon Explorer - Main Page](./img/explorer-main-down.png "Kaon Explorer - Main Page")
 
 The primary interface of the explorer features an "Add Kaon Testnet" button located at the bottom of the screen. Selecting this button will integrate the Kaon Testnet into your MetaMask application. Please note that this functionality is currently limited to the browser-based MetaMask wallet.
 
