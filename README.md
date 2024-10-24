@@ -39,7 +39,7 @@ Manual configuration of the Kaon Testnet is possible for any Ethereum-compatible
 - **Block explorer URL**: https://explorer.testnet.kaon.one
 
 <p align="center">
-  <img src="./img/metamask-empty.png" alt="Metamask - Empty Balance" width="50%">
+  <img src="./img/metamask-empty.png" alt="Metamask - Empty Balance" width="533%">
 </p>
 
 Upon successful configuration, you will have established a functional account on the Kaon network. However, users will notice that they currently have 0 KAON tokens.
@@ -57,7 +57,7 @@ On the faucet interface, input your MetaMask wallet address and specify the desi
 Upon completion of the request, a confirmation notification will be displayed. Token distribution typically occurs within a 60-second timeframe, barring any network congestion or technical issues.
 
 <p align="center">
-  <img src="./img/metamask-with-balance.png" alt="Metamask - With Balance" width="50%">
+  <img src="./img/metamask-with-balance.png" alt="Metamask - With Balance" width="33%">
 </p>
 
 ## 3. Generate a New Token
