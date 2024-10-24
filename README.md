@@ -57,7 +57,7 @@ On the faucet interface, input your MetaMask wallet address and specify the desi
 Upon completion of the request, a confirmation notification will be displayed. Token distribution typically occurs within a 60-second timeframe, barring any network congestion or technical issues.
 
 <p align="center">
-  <img src="./img/metamask-with-balance.png" alt="Metamask - With Balance" width="75%">
+  <img src="./img/metamask-with-balance.png" alt="Metamask - With Balance" width="50%">
 </p>
 
 ## 3. Generate a New Token
@@ -65,7 +65,7 @@ Upon completion of the request, a confirmation notification will be displayed. T
 Upon successful acquisition of testnet tokens, you can now deploy a new ERC20-compliant token using the simplified token generation interface available at [https://tokengen.testnet.kaon.one](https://tokengen.testnet.kaon.one).
 
 <p align="center">
-  <img src="./img/token-gen-metamask-connect.png" alt="Token Generator - Connect Metamask" width="75%">
+  <img src="./img/token-gen-metamask-connect.png" alt="Token Generator - Connect Metamask" width="50%">
 </p>
 
 Once your MetaMask is connected, you may customize and deploy any desired token configuration within the parameters provided by the platform.
