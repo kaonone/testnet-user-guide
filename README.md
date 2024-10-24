@@ -26,7 +26,9 @@ This explorer, while based on the classic Ethereum-type model, has been adapted 
 
 The primary interface of the explorer features an "Add Kaon Testnet" button located at the bottom of the screen. Selecting this button will integrate the Kaon Testnet into your MetaMask application. Please note that this functionality is currently limited to the browser-based MetaMask wallet.
 
-![Metamask - Connect Network Prompt](./img/metamask-connect-network.png "Metamask - Connect Network Prompt")
+<p align="center">
+  <img src="./img/metamask-connect-network.png" alt="Metamask - Connect Network Prompt" width="75%">
+</p>
 
 Manual configuration of the Kaon Testnet is possible for any Ethereum-compatible wallet using the following network parameters:
 
@@ -36,7 +38,9 @@ Manual configuration of the Kaon Testnet is possible for any Ethereum-compatible
 - **Native currency symbol**: KAON
 - **Block explorer URL**: https://explorer.testnet.kaon.one
 
-![Metamask - Empty Balance](./img/metamask-empty.png "Metamask - Empty Balance")
+<p align="center">
+  <img src="./img/metamask-empty.png" alt="Metamask - Empty Balance" width="75%">
+</p>
 
 Upon successful configuration, you will have established a functional account on the Kaon network. However, users will notice that they currently have 0 KAON tokens.
 
@@ -44,29 +48,39 @@ Upon successful configuration, you will have established a functional account on
 
 To acquire complimentary tokens for testing purposes, navigate to the Kaon Testnet Faucet at [http://faucet.testnet.kaon.one](http://faucet.testnet.kaon.one). Select the “Faucet” option to initiate the token distribution process.
 
-![Faucet - Main Page](./img/faucet-main.png "Faucet - Main Page")
+<p align="center">
+  <img src="./img/faucet-main.png" alt="Faucet - Main Page" width="75%">
+</p>
 
 On the faucet interface, input your MetaMask wallet address and specify the desired token quantity. The interface also displays your Kaon UTXO format address, which corresponds to your Ethereum format address.
 
 Upon completion of the request, a confirmation notification will be displayed. Token distribution typically occurs within a 60-second timeframe, barring any network congestion or technical issues.
 
-![Metamask - With Balance](./img/metamask-with-balance.png "Metamask - With Balance")
+<p align="center">
+  <img src="./img/metamask-with-balance.png" alt="Metamask - With Balance" width="75%">
+</p>
 
 ## 3. Generate a New Token
 
 Upon successful acquisition of testnet tokens, you can now deploy a new ERC20-compliant token using the simplified token generation interface available at [https://tokengen.testnet.kaon.one](https://tokengen.testnet.kaon.one).
 
-![Token Generator - Connect Metamask](./img/token-gen-metamask-connect.png "Token Generator - Connect Metamask")
+<p align="center">
+  <img src="./img/token-gen-metamask-connect.png" alt="Token Generator - Connect Metamask" width="75%">
+</p>
 
 Once your MetaMask is connected, you may customize and deploy any desired token configuration within the parameters provided by the platform.
 
-![Token Generator - Parameters](./img/token-gen-parameters.png "Token Generator - Parameters")
+<p align="center">
+  <img src="./img/token-gen-parameters.png" alt="Token Generator - Parameters" width="75%">
+</p>
 
 ## 4. Interacting with Uniswap V2 on Kaon Testnet
 
 After deploying a token, you may explore additional functionalities within the Kaon ecosystem. For instance, you can interact with our deployed instance of Uniswap V2, accessible at [https://uniswap.testnet.kaon.one//swap](https://uniswap.testnet.kaon.one//swap). This allows users to test token swapping and liquidity provisioning within the Kaon testnet environment.
 
-![Uniswap - Main Page](./img/uniswap-main.png "Uniswap - Main Page")
+<p align="center">
+  <img src="./img/uniswap-main.png" alt="Uniswap - Main Page" width="75%">
+</p>
 
 To engage with the Uniswap V2 instance on the Kaon testnet, follow these procedural steps:
 
@@ -98,4 +112,6 @@ For advanced contract deployment and interaction, the [Remix Ethereum IDE](https
 
 Upon successful connection, you can proceed to deploy and test your smart contracts within the Kaon testnet environment. It is noteworthy that the network fully supports EVM Shanghai, providing access to the latest Ethereum Virtual Machine features and optimizations.
 
-![Remix - Connect Kaon Network is connected](./img/remix-connected.png "Remix - Connect Kaon Network is connected")
+<p align="center">
+  <img src="./img/remix-connected.png" alt="Remix - Connect Kaon Network is connected" width="75%">
+</p>
