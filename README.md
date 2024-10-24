@@ -39,7 +39,7 @@ Manual configuration of the Kaon Testnet is possible for any Ethereum-compatible
 - **Block explorer URL**: https://explorer.testnet.kaon.one
 
 <p align="center">
-  <img src="./img/metamask-empty.png" alt="Metamask - Empty Balance" width="75%">
+  <img src="./img/metamask-empty.png" alt="Metamask - Empty Balance" width="50%">
 </p>
 
 Upon successful configuration, you will have established a functional account on the Kaon network. However, users will notice that they currently have 0 KAON tokens.
@@ -65,7 +65,7 @@ Upon completion of the request, a confirmation notification will be displayed. T
 Upon successful acquisition of testnet tokens, you can now deploy a new ERC20-compliant token using the simplified token generation interface available at [https://tokengen.testnet.kaon.one](https://tokengen.testnet.kaon.one).
 
 <p align="center">
-  <img src="./img/token-gen-metamask-connect.png" alt="Token Generator - Connect Metamask" width="50%">
+  <img src="./img/token-gen-metamask-connect.png" alt="Token Generator - Connect Metamask" width="70%">
 </p>
 
 Once your MetaMask is connected, you may customize and deploy any desired token configuration within the parameters provided by the platform.
