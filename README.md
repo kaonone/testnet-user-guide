@@ -46,11 +46,17 @@ On the faucet interface, input your MetaMask wallet address and specify the desi
 
 Upon completion of the request, a confirmation notification will be displayed. Token distribution typically occurs within a 60-second timeframe, barring any network congestion or technical issues.
 
+![Metamask - With Balance](./img/metamask-with-balance.png "Metamask - With Balance")
+
 ## 3. Generate a New Token
 
 Upon successful acquisition of testnet tokens, you can now deploy a new ERC20-compliant token using the simplified token generation interface available at [https://tokengen.testnet.kaon.one](https://tokengen.testnet.kaon.one).
 
+![Token Generator - Connect Metamask](./img/token-gen-metamask-connect.png "Token Generator - Connect Metamask")
+
 Once your MetaMask is connected, you may customize and deploy any desired token configuration within the parameters provided by the platform.
+
+![Token Generator - Parameters](./img/token-gen-parameters.png "Token Generator - Parameters")
 
 ## 4. Interacting with Uniswap V2 on Kaon Testnet
 
