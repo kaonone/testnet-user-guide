@@ -32,7 +32,7 @@ Manual configuration of the Kaon Testnet is possible for any Ethereum-compatible
 - **Native currency symbol**: KAON
 - **Block explorer URL**: https://explorer.testnet.kaon.one
 
-![Remix - Connect Kaon Network is connected](./img/remix-connected.png "Remix - Connect Kaon Network is connected")
+![Metamask - Empty Balance](./img/metamask-empty.png "Metamask - Empty Balance")
 
 Upon successful configuration, you will have established a functional account on the Kaon network. However, users will notice that they currently have 0 KAON tokens.
 
@@ -87,3 +87,5 @@ For advanced contract deployment and interaction, the [Remix Ethereum IDE](https
 - Direct network connection
 
 Upon successful connection, you can proceed to deploy and test your smart contracts within the Kaon testnet environment. It is noteworthy that the network fully supports EVM Shanghai, providing access to the latest Ethereum Virtual Machine features and optimizations.
+
+![Remix - Connect Kaon Network is connected](./img/remix-connected.png "Remix - Connect Kaon Network is connected")
