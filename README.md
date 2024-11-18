@@ -4,7 +4,7 @@
 **Kaon Core Team**  
 *October 3, 2024*
 
-This document introduces the Kaon testnet and guides users through how to access Kaon, its key features, and its applications. Our aim is to equip developers, builders, and partners with the knowledge to effectively explore, test, and innovate within the Kaon ecosystem.
+This document introduces the Kaon testnet and guides users through how to access Kaon, its key features, and its applications. Our aim is to equip developers, builders, and partners with the knowledge to effectively explore, test, and innovate within the Kaon ecosystem. Kaon will begin by integrating EVM-chains, before expanding into Polygon, Tendermint, Solana, and more. 
 
 ## 1. Accessing the Testnet
 
